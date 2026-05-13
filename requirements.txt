@@ -2,6 +2,8 @@ ultralytics
 torch
 torchvision
 opencv-python
+fastapi
+uvicorn
+python-multipart
 pillow
-matplotlib
 numpy
